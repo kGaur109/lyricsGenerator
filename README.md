@@ -1,2 +1,2 @@
-# lyricsGenerator
+# Lyrics Generator
 Generating Lyrics
